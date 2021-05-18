@@ -1,0 +1,127 @@
+header{
+  background-color: rgb(158, 158, 165);
+  height: auto;
+  width: auto;
+  display: flex;
+  align-items: left;
+  font-size: 2rem;
+  align-content: center;
+  justify-content: center;
+  
+  
+}
+nav{
+width: auto;
+display: flex;
+padding: 10px;
+gap: 95px;
+}
+button{
+  background-color: rgb(234, 238, 13);
+  border-radius: 25%;
+  
+}
+button:hover{
+  background-color:rgb(225, 230, 226);
+}
+h1{
+  color: black;
+  font-size: 65px;
+  font-family:monospace;
+  text-align: center;
+  margin-bottom: auto;
+}
+h2{
+  color:black;
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+h3{
+  text-align: center;
+  font-size:20px;
+}
+.landing-page{
+  background-color: rgb(116, 109, 109);
+  width: 160px;
+  height: 400px;
+  float: left;
+  
+
+}
+.landing-page-right{
+  background-color: rgb(116, 109, 109);
+  float: right;
+  width: 160px;
+  height: 380px;
+  padding-bottom: 20px;
+  
+  
+}
+.container{
+  width: 97.5%;
+  height: 460px;
+  background-color: rgb(105, 202, 110);
+  padding-top: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+
+}
+.landing-page-left{
+  float:left;
+  width:70%;
+  height: 400px;
+  background-color: rgb(189, 189, 161);
+  margin-left:23px;
+}
+footer{
+  text-align: center;
+}
+.icons{
+  width: 60px;
+    height:52px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+strong1{
+  font-size: 20px;
+  text-align: center;
+}
+.flex{
+  display: flex;
+  margin: 10px;
+  font-size: 20px;
+  flex-direction: column;
+  border-style: solid;
+  width: 180px;
+  height: 320px;
+  text-align: center;
+ 
+}
+.flex-about{
+  margin: 30px;
+  border-style: solid;
+  width: 300px;
+  height: 290px;
+  float: right;
+}
+p{
+  text-decoration: underline;
+}
+.flex-projects{
+  display: flexbox;
+  border-style: solid;
+  width: 340px;
+  height:290px;
+  float:right;
+  margin:30px;
+}
+.flex-projects2{
+  display: flexbox;
+  border-style: solid;
+  width: 340px;
+  height: 290px;
+  float: left;
+  margin:30px;
+}
